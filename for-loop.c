@@ -3,7 +3,7 @@
 int main() {
     int i;
 
-    for(i = 0; i < 5; i++) { //you may change the initalization(i = 0) and the condition(i < 5) so something bigger or smaller as long as it applies
+    for(i = 0; i < 5; i++) { //you may change the initalization(i = 0) and the condition(i < 5) to something bigger or smaller as long as it applies
         printf("%d\n", i);
     }
 
