@@ -11,7 +11,7 @@ int main() {
     printf("%.2f\n", num2); //.2 for 2 decimal places only, you may remove it.
     printf("%.2lf\n", num3); //.2 for 2 decimal places only, you may remove it.
     printf("%c\n", char1);
-    printf("%s\n", string1); //you can also try replacing s with c but it will only print the first element.
+    printf("%s\n", string1); //you can also try replacing s with c but it will only print the first element which is 'j'.
 }
 
 /*
