@@ -7,7 +7,7 @@ There are "comments" inside those files to help you understand the contents easi
 If problem persists...
 
 For TURBO C USERS:
-  Try inserting a "return 0;" at the end of the code before the main functions end bracket.
+  Try inserting a "return 0;" at the end of the code before the main function's end bracket.
   
 For DevC USERS:
   Try inserting the needed library/ies. Though I made sure I only used functions from the stdio.h library.
