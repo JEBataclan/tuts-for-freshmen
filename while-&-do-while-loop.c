@@ -3,7 +3,7 @@
 int main() {
     int i = 0;
 
-    while(i < 5) { //prints teyupi ftw 5 times but increments i inside the loop
+    while(i < 5) { //prints teyupi ftw 5 times and increments i inside the loop
         printf("teyupi ftw\n");
         i++;
     }
